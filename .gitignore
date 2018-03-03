@@ -1,16 +1,1 @@
 **/node_modules
-**/*.tar.gz
-.idea/
-**/*.exe
-html/assets/js/ach.min.js.map
-html/assets/js/ach.min.js
-log_*
-client/src/actions/
-client/src/stores/
-client/src/styles/
-client/src/utils/
-server/bin/
-server/pkg/
-!server/src/webapp/**
-**/test*.go
-server/src/webapp/vendor
